@@ -15,3 +15,16 @@
 
 #### A script is used to view the data on the blockchain, while a transaction is used to transact or make changes on the blockchain. Scripts does not cost money or "gas", while a transaction does.
 
+## Chapter 1 - Day 2 - The Flow Blockchain & Cadence
+
+### 1. What are the 5 Cadence Programming Language Pillars?
+
+#### 1. Safety and Security - Cadence maximizes efficiency by making sure that each smart contract is secure while maintaining the highest levels of safety and security
+#### 2. Clarity - Each code should be easy to read and understand, so that developers and non-developers alike can easily understand the code.
+#### 3. Approachability - Cadence is easy to approach and understand no matter what programming language you are coming from.
+#### 4. Developer Experience - Cadence is developer friendly and makes it easy for developer's to debug or correct mistakes found in the code. 
+#### 5. Resource Oriented Programming - This is important since it makes the owner of a token directly own the NFT or asset. You do not need to look in a central ledger or database to see if you own something. Similar to physical things, the ownership is represented directly by possessing the item.
+
+### 2. In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
+
+#### Knowing the five pillars is standard anywhere - not just in blockchain or coding. By making it easy to understand, the curve to learn is drastically lessened and that it makes things easier to be built.
