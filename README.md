@@ -28,3 +28,12 @@
 ### 2. In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
 
 #### Knowing the five pillars is standard anywhere - not just in blockchain or coding. By making it easy to understand, the curve to learn is drastically lessened and that it makes things easier to be built.
+
+## Chapter 2 - Day 1 - Our First Smart Contract
+
+### Deploying my first smart contract to 0x03 on Flow Playground
+![image](https://user-images.githubusercontent.com/95642924/154836863-0104adda-04ad-4e1b-b65c-69316bb31ebc.png)
+
+### Executing a script to read the variable
+![image](https://user-images.githubusercontent.com/95642924/154836941-92dc1be4-c78f-4419-8637-ac4ca88151f2.png)
+
