@@ -37,3 +37,4 @@
 ### Executing a script to read the variable
 ![image](https://user-images.githubusercontent.com/95642924/154836941-92dc1be4-c78f-4419-8637-ac4ca88151f2.png)
 
+## Chapter 2 Day 2 - Transactions and Scripts
